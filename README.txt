@@ -8,6 +8,17 @@ AskFinder is an intelligent file search application that helps
 users quickly find files on their computer using filename and
 content-based searching.
 
+# AskFinder
+
+AI-powered semantic file search engine for Windows.
+
+Website:
+https://askfinder.kesug.com
+
+Download:
+https://github.com/RevanthAdireddi/AskFinder/releases
+
+
 Features:
 - Fast file searching
 - Search by filename
